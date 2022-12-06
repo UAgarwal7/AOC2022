@@ -3,7 +3,6 @@
 // and add their calories up
 
 import java.io.File;
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.io.FileNotFoundException;
 
